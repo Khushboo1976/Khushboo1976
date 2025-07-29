@@ -44,7 +44,7 @@ Welcome to my GitHub! I'm a tech enthusiast, an aspiring data analyst, and a cre
 
 ## 📫 Reach Me At
 
-- 📧 Email: [khushboogoyal1976@gmail.com](mailto:khushboo12244@gmail.com)  
+- 📧 Email: [khushboo12244@gmail.com](mailto:khushboo12244@gmail.com)  
 - 💼 LinkedIn: [Khushboo Goyal](https://www.linkedin.com/in/khushboo-goyal-32bab0291)
 
 ---
