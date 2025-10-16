@@ -111,4 +111,5 @@ She / Her 🌸
 
 ## 👀 Profile Visitors
 
-![Visitor Count](https://profile-counter.glitch.me/Khushboo1976/count.svg)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Khushboo1976)
+
