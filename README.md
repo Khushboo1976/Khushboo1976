@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a tech enthusiast, an aspiring data analyst, and a cre
 
 ## 💡 About Me
 
-- 🎓 Currently a 2nd-year CSIT student at **Dronacharya Group of Institutions**
+- 🎓 Currently a 3rd-year CSIT student at **Dronacharya Group of Institutions**
 - 🎯 Passionate about **Data Science**, **AI/ML**, and building impactful projects
 - 🧠 Learning and exploring through platforms like **AICTE internships**, **TechSaksham**, **GDSC**, and **Hackathons**
 - 💬 I believe in learning by doing and sharing – my journey is all about growth, curiosity, and innovation
