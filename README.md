@@ -1,115 +1,135 @@
-👋 Hi there, I’m Khushboo Goyal! 👩‍💻
+<h1 align="center">Hi 👋, I'm Khushboo Goyal</h1>
+<h3 align="center">B.Tech CSIT | Software Developer | AI & Data Enthusiast</h3>
 
-Welcome to my GitHub! I’m a tech enthusiast, aspiring software developer, and data-driven creator passionate about using technology to make a meaningful impact. 🌱
-
----
-
-## 💡 About Me
-🎓 3rd-year B.Tech CSIT student at **Dronacharya Group of Institutions (AKTU)**  
-💼 Currently interning at **PBEL** | Completed **AICTE TechSaksham (Microsoft & SAP) internship**  
-💻 Passionate about **Software Development, AI/ML, and Data Analytics**  
-🚀 Actively building innovative and socially impactful projects through **GDSC and Hackathons**  
-🌸 Believer in lifelong learning and creative problem-solving  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Khushboo1976&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🔍 Interests
-🤖 **Artificial Intelligence & Machine Learning**  
-💻 **Software & Web Development** (React.js, Python, Java)  
-📊 **Data Analytics & Visualization**  
-🌍 **Tech for Social Good** — sustainability, mental well-being, accessibility  
-🧘‍♀️ **Mindfulness + Technology** (Projects: SAGE, Tenure, ReBlooms, GreenPoints)  
+## 🚀 About Me
+
+- 🎓 3rd-Year B.Tech CSIT Student (AKTU)
+- 💼 Intern at **PBEL**
+- 🏆 Completed **AICTE TechSaksham Internship (Microsoft & SAP Initiative)**
+- 🤝 Active GDSC Member & Hackathon Enthusiast
+- 💡 Passionate about AI, Software Development & Data Analytics
+- 🌱 Focused on building socially impactful and scalable tech products
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **Python** (OOP, APIs, Flask)  
-- **React.js & Frontend Development** (Tailwind CSS, Figma)  
-- **Data Analysis** with R, Tableau, Power BI  
-- **Machine Learning** (Scikit-learn, NumPy, Pandas, Matplotlib)  
-- **DSA in C++** and Competitive Programming  
+# 🛠️ Technical Skills
+
+### 👩‍💻 Programming
+Python | Java | C | C++ | JavaScript | SQL  
+
+### 🌐 Development
+React.js | HTML | CSS | Tailwind CSS | Streamlit | Tkinter  
+
+### 📊 Data & AI
+Pandas | NumPy | Matplotlib | Scikit-learn  
+Tableau | Power BI | R  
+Machine Learning (Foundations) | Generative AI | Prompt Engineering  
+
+### 🛠 Tools
+Git | GitHub | VS Code | Jupyter Notebook | Figma | Canva  
+
+## 📚 Core Computer Science Foundations
+
+- Data Structures & Algorithms (C)
+- Object-Oriented Programming (Java / C++)
+- Database Management Systems (SQL, Normalization, Transactions)
+- Operating Systems (Process Management, Memory Management Basics)
+- System Design Fundamentals (Scalability, API Design Basics)
 
 ---
 
-## 🛠️ Technical Skills & Tools
+# 🌟 Completed Projects
 
-| **Category** | **Skills & Tools** |
-|--------------|------------------|
-| **Programming & Languages** | Python, Java, C, C++, JavaScript, SQL |
-| **Web & Frontend** | React.js, HTML, CSS, Figma, Canva |
-| **Data, Analytics & ML** | Data Analysis (R, Tableau, Excel), Data Processing, Data Visualization, Machine Learning (theory & basics), Generative AI, Prompt Engineering |
-| **Tools & Platforms** | Jupyter Notebook, Git & GitHub Desktop, VS Code, Streamlit, PowerPoint |
-| **Core CS Concepts** | Data Structures & Algorithms, Object-Oriented Programming, System Design Basics, DBMS |
-| **Other Domains** | Cybersecurity (certified), IoT prototyping, Sustainable tech solutions |
+### 🔹 SOS Hospital Management System
+Emergency hospital management platform with **SOS alert integration (Twilio API)** built using Python & Tkinter.
+
+### 🔹 Spam SMS Detection
+Machine Learning model using **NLP + Scikit-learn** to classify spam and ham messages.
+
+### 🔹 AI Caption Generator
+Deep learning / NLP-based system that generates captions from input text or context.
+
+### 🔹 Spiritual Jarvis
+Streamlit-based AI assistant integrating spiritual knowledge with LLM-driven responses.
+
+### 🔹 GreenPoints
+Reward-based eco-social impact system encouraging sustainable and community-driven activities.
 
 ---
 
-## 🤝 Looking to Collaborate On
-- AI/ML or Full-Stack Development Projects  
+# 🚧 Projects Under Development
+
+### 🔸 Tenure
+AI-driven career exploration platform helping students discover interests and global opportunities.
+
+### 🔸 SAGE
+AI-powered personal growth and mindfulness ecosystem with guided learning & calm zone.
+
+### 🔸 Aushad.ai
+Smart healthcare assistant focused on medicine awareness and intelligent health suggestions.
+
+### 🔸 Aapda Shayak
+Disaster-response assistance platform designed to improve emergency communication & resource allocation.
+
+### 🔸 ReBloom
+Sustainability-driven initiative promoting environmental awareness and eco-innovation.
+
+---
+
+## 📊 GitHub Activity
+
+- Consistently building AI & Data-driven projects  
+- Active contributor in hackathons and internships  
+- Developing scalable backend and ML-based applications  
+- Exploring system design and modern web technologies  
+---
+
+## 📊 Development Focus
+
+I actively work on:
+
+- 🤖 Artificial Intelligence & Machine Learning Projects  
+- 📊 Data Analytics & Visualization Systems  
+- 🌐 Full-Stack Web Applications  
+- 🏥 Healthcare & Social Impact Solutions  
+- 🧠 Career & Learning Platforms  
+
+Consistently improving problem-solving skills through DSA and real-world implementations.
+---
+
+# 🏆 Achievements
+
+- 🥈 AKTU Zonal Basketball Silver Medalist  
+- 📜 Research Paper & Technical Poster Presenter (SPEED & ICOTET 2024)  
+- 🎖 NCC Certified  
+- 🔐 Cybersecurity Certified  
+- 💼 AICTE TechSaksham (Microsoft & SAP CSR Internship)
+
+---
+
+# 🤝 Open To Collaborate On
+
+- AI / Machine Learning Projects  
 - Data Analytics & Visualization Dashboards  
-- Community-driven Tech Initiatives  
-- Open-Source and Hackathon Projects  
+- Full-Stack Applications  
+- Hackathons & Open Source  
 
 ---
 
-## 💻 Projects & Initiatives
-- **SAGE** — Personal learning & mindfulness platform with AI guidance  
-- **Tenure** — Career guidance and global opportunity platform for students  
-- **GreenPoints** — Rewarding citizens for eco-friendly and social activities  
-- **ReBlooms** — Sustainable project focusing on environmental awareness  
+# 📫 Connect With Me
 
----
-
-## 📫 Reach Me At
 📧 Email: khushboo12244@gmail.com  
-💼 LinkedIn: [linkedin.com/in/khushboo-goyal-32bab0291](https://linkedin.com/in/khushboo-goyal-32bab0291)  
-💻 GitHub: [github.com/Khushboo1976](https://github.com/Khushboo1976)  
+🔗 LinkedIn: https://linkedin.com/in/khushboo-goyal-32bab0291  
+💻 GitHub: https://github.com/Khushboo1976  
 
 ---
 
-## 😄 Pronouns
-She / Her 🌸  
+## 💭 Personal Motto
 
----
-
-## ⚡ Fun Facts
-🧘‍♀️ I blend spirituality & science in my tech ideas (SAGE, Spiritual Jarvis)  
-📚 I love storytelling and integrating Indian values into modern technology  
-🏀 Silver Medalist at AKTU Zonal Basketball Tournament  
-💪 Eldest daughter chasing dreams with discipline, heart, and purpose  
-
-> “Be the change you want to see in the world.” — **Mahatma Gandhi**  
-
----
-
-## 🛠️ Languages & Tools Badges
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=java&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-
----
-
-## 🌟 GitHub Stats
-
-![Khushboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khushboo1976&show_icons=true&theme=tokyonight)
-
----
-
-## 📈 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushboo1976&layout=compact&theme=tokyonight)
-
----
-
-## 👀 Profile Visitors
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Khushboo1976)
-
+> “Be the change you wish to see in the world.”
