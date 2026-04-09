@@ -9,38 +9,66 @@
 
 ## 🚀 About Me
 
-- 🎓 3rd-Year B.Tech CSIT Student (AKTU)
-- 💼 Intern at **PBEL**
-- 🏆 Completed **AICTE TechSaksham Internship (Microsoft & SAP Initiative)**
-- 🤝 Active GDSC Member & Hackathon Enthusiast
-- 💡 Passionate about AI, Software Development & Data Analytics
-- 🌱 Focused on building socially impactful and scalable tech products
+- 🎓 3rd-Year B.Tech CSIT Student at AKTU (CGPA: **8.04/10**)  
+- 💼 Intern at **PBEL (IBM Generative AI)**  
+- 🏆 Completed **AICTE TechSaksham Internship** (Microsoft & SAP Initiative)  
+- 🤝 Active **GDSC Member** & Hackathon Enthusiast  
+- 💡 Passionate about **AI/ML, Backend Development, and Scalable Systems**  
+- ⚙️ Skilled in building **LLM-based applications, REST APIs, and data-driven systems**  
+- 🌱 Focused on creating **intelligent, real-world impactful solutions using AI + Software Engineering**  
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-### 👩‍💻 Programming
-Python | Java | C | C++ | JavaScript | SQL  
+### 👩‍💻 Programming Languages  
+**C | C++ | Java | Python | SQL | JavaScript**
 
-### 🌐 Development
-React.js | HTML | CSS | Tailwind CSS | Streamlit | Tkinter  
+---
 
-### 📊 Data & AI
-Pandas | NumPy | Matplotlib | Scikit-learn  
-Tableau | Power BI | R  
-Machine Learning (Foundations) | Generative AI | Prompt Engineering  
+### 🌐 Development & Backend  
+**React.js | HTML | CSS | Tailwind CSS**  
+**Node.js | Express.js | REST API Design**  
+**HTTP | TCP/IP | Concurrency | Caching**
 
-### 🛠 Tools
-Git | GitHub | VS Code | Jupyter Notebook | Figma | Canva  
+---
+
+### 📊 Data Science & AI/ML  
+**Pandas | NumPy | Matplotlib | Scikit-learn**  
+**Machine Learning | NLP | LLMs | Generative AI**  
+**Prompt Engineering | RAG | Model Evaluation**  
+**Data Preprocessing | Feature Engineering**
+
+---
+
+### 🗄️ Databases  
+**MySQL | PostgreSQL | MongoDB**  
+**Normalization | Indexing | ACID Transactions**
+
+---
+
+### 🛠️ Tools & Platforms  
+**Git | GitHub | VS Code | Linux**  
+**Jupyter Notebook | Postman | Figma | Excel | Canva**
+
+---
+
+### 🧠 Problem Solving  
+- Strong foundation in **Data Structures & Algorithms**  
+- Practice on **LeetCode & Codeforces**  
+- Topics: Arrays, DP, Graphs, Trees, Binary Search, Hashing, Recursion  
+
+---
 
 ## 📚 Core Computer Science Foundations
 
-- Data Structures & Algorithms (C)
-- Object-Oriented Programming (Java / C++)
-- Database Management Systems (SQL, Normalization, Transactions)
-- Operating Systems (Process Management, Memory Management Basics)
-- System Design Fundamentals (Scalability, API Design Basics)
+- 📌 Data Structures & Algorithms (Problem Solving & Optimization)  
+- 📌 Object-Oriented Programming (Java, C++)  
+- 📌 Database Management Systems (SQL, Transactions, Indexing, ACID)  
+- 📌 Operating Systems (Process & Memory Management)  
+- 📌 Computer Networks (TCP/IP, HTTP Protocols)  
+- 📌 System Design Fundamentals (Scalability, API Design, Concurrency)  
+- 📌 Software Development Lifecycle (SDLC) & Testing Basics (STLC)  
 
 ---
 
