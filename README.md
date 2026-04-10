@@ -202,3 +202,5 @@ Consistently improving problem-solving skills through DSA and real-world impleme
 ## 💭 Personal Motto
 
 > “Be the change you wish to see in the world.”
+> “निंदक नियरे राखिए, आंगन कुटी छवाय।
+  बिन पानी, साबुन बिना, निर्मल करे सुभाय॥”
